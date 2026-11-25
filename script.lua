@@ -1,3 +1,4 @@
+presetPadding.PaddingLeft = UDim.new(0, 5)
 presetPadding.PaddingRight = UDim.new(0, 5)
 presetPadding.PaddingTop = UDim.new(0, 5)
 presetPadding.PaddingBottom = UDim.new(0, 5)
